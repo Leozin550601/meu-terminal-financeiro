@@ -219,3 +219,4 @@ with tab_financas:
                         st.rerun()
     else:
         st.info("Nenhum lançamento financeiro registrado até o momento.")
+
